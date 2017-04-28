@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://narmeen12.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -32,14 +32,14 @@ lang: "en"
 author: "Narmin Shahin"
 title: "{ Narmin Shahin }"
 description: ""
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+keywords: "mongoDB, angular, react, node, javascript, mySQL"
+favicon: "/img/masterballsprite.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/masterballsprite.png"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/gitpro.JPG"
 
 ##############################
 # Color the browser elements #
