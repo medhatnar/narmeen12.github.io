@@ -57,7 +57,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Searching for a FullStack Engineer here?"
   - text: "Your search is O(1)."
 
-me-img: "/img/gitpro.JPG"
+me-img: "/img/itme.jpg"
 
 ##############################
 # Color the browser elements #
